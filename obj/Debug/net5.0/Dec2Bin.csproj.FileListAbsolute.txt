@@ -1,0 +1,16 @@
+E:\Vinicius\code\C#\Dec2Bin\bin\Debug\net5.0\Dec2Bin.exe
+E:\Vinicius\code\C#\Dec2Bin\bin\Debug\net5.0\Dec2Bin.deps.json
+E:\Vinicius\code\C#\Dec2Bin\bin\Debug\net5.0\Dec2Bin.runtimeconfig.json
+E:\Vinicius\code\C#\Dec2Bin\bin\Debug\net5.0\Dec2Bin.runtimeconfig.dev.json
+E:\Vinicius\code\C#\Dec2Bin\bin\Debug\net5.0\Dec2Bin.dll
+E:\Vinicius\code\C#\Dec2Bin\bin\Debug\net5.0\ref\Dec2Bin.dll
+E:\Vinicius\code\C#\Dec2Bin\bin\Debug\net5.0\Dec2Bin.pdb
+E:\Vinicius\code\C#\Dec2Bin\obj\Debug\net5.0\Dec2Bin.csproj.AssemblyReference.cache
+E:\Vinicius\code\C#\Dec2Bin\obj\Debug\net5.0\Dec2Bin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vinicius\code\C#\Dec2Bin\obj\Debug\net5.0\Dec2Bin.AssemblyInfoInputs.cache
+E:\Vinicius\code\C#\Dec2Bin\obj\Debug\net5.0\Dec2Bin.AssemblyInfo.cs
+E:\Vinicius\code\C#\Dec2Bin\obj\Debug\net5.0\Dec2Bin.csproj.CoreCompileInputs.cache
+E:\Vinicius\code\C#\Dec2Bin\obj\Debug\net5.0\Dec2Bin.dll
+E:\Vinicius\code\C#\Dec2Bin\obj\Debug\net5.0\ref\Dec2Bin.dll
+E:\Vinicius\code\C#\Dec2Bin\obj\Debug\net5.0\Dec2Bin.pdb
+E:\Vinicius\code\C#\Dec2Bin\obj\Debug\net5.0\Dec2Bin.genruntimeconfig.cache
