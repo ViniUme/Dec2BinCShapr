@@ -22,12 +22,7 @@ namespace Dec2Bin
             numDecimal[0] =  Convert.ToInt32(Console.ReadLine());
             int constDecimal = numDecimal[0];
 
-            if(numDecimal[0] == 1){
-                Console.WriteLine("");
-                Console.WriteLine(numDecimal[0] + " = " + "0");
-            }
-
-            else if(numDecimal[0] == 0){
+            if(numDecimal[0] == 0){
                 Console.WriteLine("");
                 Console.WriteLine(numDecimal[0] + " = " + "null");
             }
@@ -35,7 +30,7 @@ namespace Dec2Bin
             while(numDecimal[0] > 1){
                 numBinario[i] = numDecimal[0] % 2;
                 numDecimal[0] = numDecimal[0] / 2;
-                i = i + 1;
+                i++;
 
                 if(numDecimal[0] <= 1){
                     numBinario[i] = numDecimal[0];
@@ -46,19 +41,22 @@ namespace Dec2Bin
             Console.Write(constDecimal + " = ");
 
             i = 15;
+            int zeroEsquerda = 1;
             while(i != -1){
+
+                while(zeroEsquerda == 1){
+                    if(numBinario[i] == 0){
+                        i--;
+                    }
+                    else{
+                        zeroEsquerda--;
+                    }
+                }
+
                 Console.Write(numBinario[i]);
-                i = i - 1;
+                i--;
 
-                if(i == 11){
-                    Console.Write(" ");
-                }
-
-                else if(i == 7){
-                    Console.Write(" ");
-                }
-
-                else if(i == 3){
+                if(i == 11 || i == 7 || i == 3){
                     Console.Write(" ");
                 }
             }
